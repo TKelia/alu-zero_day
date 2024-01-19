@@ -18,5 +18,5 @@ Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.                                                                                                   
 Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.                                                                          
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
-To https://github.com/{TKelia}/alu-zero_day.git                                                                                       
+To https://github.com/TKelia/alu-zero_day.git                                                                                       
  * [new branch]      master -> master          
